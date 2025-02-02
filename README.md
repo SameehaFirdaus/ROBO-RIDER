@@ -11,12 +11,18 @@ Integrates with HC-05 Bluetooth Module for communication.
 
 <h3>Technologies Used</h3>
 Arduino IDE
+
 Bluetooth HC-05
+
 Arduino Uno
+
 Motors and Motor Driver (L298N)
+
 Ultrasonic Sensor (HC-SR04)
+
 Mobile App (Bluetooth Controller)
-How to Run the Project
+
+<h4>How to Run the Project</h4>
 
 <h3>Hardware Setup:</h3>
 Connect the motors to the motor driver.
