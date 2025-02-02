@@ -26,9 +26,12 @@ Mobile App (Bluetooth Controller)
 
 <h3>Hardware Setup:</h3>
 Connect the motors to the motor driver.
+
 Connect the Bluetooth module (HC-05) to the Arduino.
+
 Attach the ultrasonic sensor for obstacle detection.
-Software Setup:
+
+<h3>Software Setup:</h3>
 Open the Arduino IDE and upload the code to the Arduino board.
 Pair your smartphone with the Bluetooth module.
 Use a Bluetooth controller app to control the car.
