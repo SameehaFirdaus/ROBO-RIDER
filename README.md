@@ -45,12 +45,9 @@
 - Solar-powered battery integration.
 - Object recognition for advanced navigation.
 
-## Contributors
-- [Your Name]
-- [Other Contributors]
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries and contributions, contact [Your Email] or visit the GitHub repository.
+For inquiries and contributions, visit the GitHub repository.
