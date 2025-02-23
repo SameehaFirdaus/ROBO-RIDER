@@ -10,7 +10,8 @@
 - **Customizable Speed and Direction**: Adjustable settings for various terrains.
 - **Real-time Monitoring**: Optional camera integration for live video feed.
 
-## Hardware Specifications
+## Hardware Specifications![WhatsApp Image 2025-02-02 at 8 43 39 PM](https://github.com/user-attachments/assets/06165536-6374-4c73-a941-67cd30485597)
+
 - **Microcontroller**: Arduino, ESP8266, or Raspberry Pi
 - **Sensors**:
   - Ultrasonic Sensor (for obstacle detection)
