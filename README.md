@@ -40,11 +40,6 @@ https://github.com/user-attachments/assets/26920ec2-c09d-405a-828f-6e5a030b865f
 3. Configure the control app for remote access.
 4. Power on the Robo Rider and start navigation.
 
-## Media
-![Robo Rider Prototype](path_to_image.jpg)
-
-[Watch Demo Video](path_to_video.mp4)
-
 ## Future Enhancements
 - AI-based route optimization.
 - Solar-powered battery integration.
