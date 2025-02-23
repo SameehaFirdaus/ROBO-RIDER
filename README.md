@@ -8,6 +8,10 @@
 - **Remote Control Mode**: Can be controlled via Bluetooth or Wi-Fi.
 - **Rechargeable Power System**: Runs on a rechargeable battery.
 - **Customizable Speed and Direction**: Adjustable settings for various terrains.
+
+https://github.com/user-attachments/assets/26920ec2-c09d-405a-828f-6e5a030b865f
+
+
 - **Real-time Monitoring**: Optional camera integration for live video feed.
 
 ## Hardware Specifications![WhatsApp Image 2025-02-02 at 8 43 39 PM](https://github.com/user-attachments/assets/06165536-6374-4c73-a941-67cd30485597)
