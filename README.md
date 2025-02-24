@@ -12,7 +12,7 @@
 https://github.com/user-attachments/assets/26920ec2-c09d-405a-828f-6e5a030b865f
 
 
-- **Real-time Monitoring**: Optional camera integration for live video feed.
+- **Real-time Monitoring**: Optional camera integration for The live video feed.
 
 ## Hardware Specifications![WhatsApp Image 2025-02-02 at 8 43 39 PM](https://github.com/user-attachments/assets/06165536-6374-4c73-a941-67cd30485597)
 
