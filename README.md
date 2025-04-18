@@ -4,8 +4,7 @@
 **Robo Rider** is a robotic vehicle designed for autonomous and remote-controlled navigation. It leverages sensors and microcontrollers to enable intelligent movement and obstacle avoidance.
 
 ## Features
-- **Autonomous Navigation**: Uses sensors to detect and avoid obstacles.
-- **Remote Control Mode**: Can be controlled via Bluetooth or Wi-Fi.
+- **Remote Control Mode**: Can be controlled via Bluetooth .
 - **Rechargeable Power System**: Runs on a rechargeable battery.
 - **Customizable Speed and Direction**: Adjustable settings for various terrains.
 
